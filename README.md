@@ -25,7 +25,7 @@ Probability and Statistics for Data Science
 ### Undergraduate-Level
 #### Data Science
 Statistical NLP \
-Recommender System and Web Mining \
+Recommender System & Web Mining \
 Deep Learning \
 Intro to Machine Learning
 #### Computer Science
@@ -37,12 +37,12 @@ Theory of Computation\
 Design & Analysis of Algorithm\
 Software Engineering\
 Advanced Data Structures\
-Computer Organization and Systems Programming\
-Basic Data Struct & OO Design\
-Software Tools&Techniques Lab\
+Computer Organization & Systems Programming\
+Basic Data Structure & OO Design\
+Software Tools & Techniques Lab\
 Introduction to Programming in Java I, II
 #### Mathematics and Statistics
-Mathemat Statistic-Time Series\
+Mathematical Statistics—Time Series\
 Introduction to Numerical Analys/Linear Algebra\
 Modern Algebra I, II\
 Number Theory I, II, III\
@@ -57,6 +57,7 @@ Calculus and Analytic Geometry
 #### Cognitive Science
 Brain Computer Interfaces\
 Sensation and Perception\
+Introduction to Cognitive Science\
 Introduction to Research Methods\
 Neurobiology of Cognition
 
