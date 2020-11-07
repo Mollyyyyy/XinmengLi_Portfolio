@@ -1,1 +1,0 @@
-Please refer to the jupyter notebook file. Both supervised and semi are in it.
