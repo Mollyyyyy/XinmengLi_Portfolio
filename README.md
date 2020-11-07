@@ -1,9 +1,7 @@
 # XinmengLi_Portfolio
 
 ## Introduction
-This directory contains partial projects and courseworks of Xinmeng Li. Unfortunately, due to various reasons, some coursework codes were not saved. 
-
-Please do not replicate or distribute the code.
+This directory contains data science projects of Xinmeng Li. 
 
 Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/xinmeng-li/)
 
