@@ -8,8 +8,8 @@ Please do not replicate or distribute the code.
 Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/xinmeng-li/)
 
 ## Education
-2019-Present NYU Major:Data Science GPA 4.0\
-2015-2019   UCSD Major:Mathematics-Computer Science, Minor: Cognitive Science GPA 3.5
+2019-Present NYU Major:Data Science\
+2015-2019   UCSD Major:Mathematics-Computer Science, Minor: Cognitive Science 
 
 ## Coursework
 ### Graduate-Level
