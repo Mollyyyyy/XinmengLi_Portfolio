@@ -13,7 +13,7 @@ Interpreted the model results and identified impactful data attributues.
 #### Fall Detection and Classification for People with Dementia(2019)
 Designed a fall-detection hardware-machine learning methodology for the falling problem of people with dementia. \
 Collected data with accelerometer and Arduino, classified the data with machine learning models and printed the decision message on a website with a WiFi shield.
-#### Yelp Restaurant Photo Classification(2019)
+#### Yelp Restaurant Multilabel Photo Classification(2019)
 Extracted features with PCA, HOG, and CNN including InceptionResNet152, VGG16, ResNet50, and ResNet152.\
 Performed multilabel classification with Logistic Regression, SVM, and Random Forest.\
 Evaluated the results with Subset Accuracy, Mean F1 score, and Hamming Loss.\
