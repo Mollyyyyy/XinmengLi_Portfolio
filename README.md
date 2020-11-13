@@ -14,13 +14,13 @@ Interpreted the model results and identified impactful data attributues.
 Designed a fall-detection hardware-machine learning methodology for the falling problem of people with dementia. \
 Collected data with accelerometer and Arduino, classified the data with machine learning models and printed the decision message on a website with a WiFi shield.
 #### Yelp Restaurant Photo Classification(2019)
-Extracted features with PCA, HOG, and CNN including InceptionResNet152, VGG16, ResNet50, and ResNet152.
-Performed multilabel classification with Logistic Regression, SVM, and Random Forest.
-Evaluated the results with Subset Accuracy, Mean F1 score, and Hamming Loss.
+Extracted features with PCA, HOG, and CNN including InceptionResNet152, VGG16, ResNet50, and ResNet152.\
+Performed multilabel classification with Logistic Regression, SVM, and Random Forest.\
+Evaluated the results with Subset Accuracy, Mean F1 score, and Hamming Loss.\
 Discussed the deployment target markets for software companies and application users from three dimensions including motivation, benefit and cost.
 #### Book Recommendation with Goodreads Interactions Histories(2020)
-Converted the data to Parquet format and stored it in the Hadoop Distributed File System (HDFS).
-Built and evaluated a recommender system with Apache Spark.
+Converted the data to Parquet format and stored it in the Hadoop Distributed File System (HDFS).\
+Built and evaluated a recommender system with Apache Spark.\
 Visualized the high-dimensional item factor distribution in 2D with UMAP.
 #### Yelp Fake Review Detection(2020)
 Experimented with various oversampling and undersampling techniques. \
