@@ -9,7 +9,7 @@ Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/xi
 Performed comprehensive data analysis on incidents of crimes.\
 Evaluated the performance of Logistic Regression, KNN, SVM, Decision Tree, Random Forest, Gradient Boosting, MLP with metrics including Accuracy, Precision, True Positive Rate, True Negative Rate, Balance Error Rate, and Speed. \
 Analyzed the strengths and weaknesses of each machine learning model and discussed the reason why it failed/succeeded.\
-Interpreted the model results and identified impactful data attributues. 
+Interpreted the model results and identified impactful data attributes. 
 #### Fall Detection and Classification for People with Dementia(2019)
 Designed a fall-detection hardware-machine learning methodology for the falling problem of people with dementia. \
 Collected data with accelerometer and Arduino, classified the data with machine learning models and printed the decision message on a website with a WiFi shield.
