@@ -19,9 +19,9 @@ Performed multilabel classification with Logistic Regression, SVM, and Random Fo
 Evaluated the results with Subset Accuracy, Mean F1 score, and Hamming Loss.\
 Discussed the deployment target markets for software companies and application users from three dimensions including motivation, benefit and cost.
 #### Book Recommendation with Goodreads Interactions Histories(2020)
-Converted the data to Parquet format and stored it in the Hadoop Distributed File System (HDFS).\
-Built and evaluated a recommender system with Apache Spark.\
-Visualized the high-dimensional item factor distribution in 2D with UMAP.
+Evaluated the recommender system on 200 million interactions and 700 thousand users (with Apache Spark).\
+Cleaned, spited and converted the data to Parquet format and stored it in Hadoop (with PySpark).\
+Visualized the high-dimensional item factor distribution in 2D (with UMAP).
 #### Yelp Fake Review Detection(2020)
 Experimented with various oversampling and undersampling techniques. \
 Built features from Count Vectorizer, TF-IDF Vectorizer, Word2Vec, Emotion Lexicon, and User Behavior Patterns. \
