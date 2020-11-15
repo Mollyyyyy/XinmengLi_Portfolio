@@ -7,7 +7,8 @@ Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/xi
 ### Projects
 #### Criminals Arrest Classification(2018)
 Performed comprehensive data analysis on incidents of crimes.\
-Evaluated the performance of Logistic Regression, KNN, SVM, Decision Tree, Random Forest, Gradient Boosting, MLP with metrics including Accuracy, Precision, True Positive Rate, True Negative Rate, Balance Error Rate, and Speed. \
+Evaluated the performance of Logistic Regression, KNN, SVM, Decision Tree, Random Forest, Gradient Boosting, MLP. \
+Achieved 0.90 Test Accuracy, 0.87 Precision, 0.60 True Positive Rate, 0.98 True Negative Rate, 0.23 Balance Error Rate. \
 Analyzed the strengths and weaknesses of each machine learning model and discussed the reason why it failed/succeeded.\
 Interpreted the model results and identified impactful data attributes. 
 #### Fall Detection and Classification for People with Dementia(2019)
@@ -16,7 +17,6 @@ Collected data with accelerometer and Arduino, classified the data with machine 
 #### Yelp Restaurant Multilabel Photo Classification(2019)
 Extracted features with PCA, HOG, and CNN including InceptionResNet152, VGG16, ResNet50, and ResNet152.\
 Performed multilabel classification with Logistic Regression, SVM, and Random Forest.\
-Evaluated the results with Subset Accuracy, Mean F1 score, and Hamming Loss.\
 Discussed the deployment target markets for software companies and application users from three dimensions including motivation, benefit and cost.
 #### Book Recommendation with Goodreads Interactions Histories(2020)
 Evaluated the recommender system on 200 million interactions and 700 thousand users (with Apache Spark).\
@@ -26,9 +26,9 @@ Visualized the high-dimensional item factor distribution in 2D (with UMAP).
 Experimented with various oversampling and undersampling techniques. \
 Built features from Count Vectorizer, TF-IDF Vectorizer, Word2Vec, Emotion Lexicon, and User Behavior Patterns. \
 Compared the performance of BERT and traditional machine learning models including XGBoost, Random Forest, Logistic Regression, and SVM. \
-Constructed an optimal hybrid model combining the best models on different types of features. 
+Constructed an optimal hybrid model combining the best models on different types of features. Achieved 0.92 AUC on the test set.
 #### Autonomous Driving Detection System(2020)
-Built an Encoder-Decoder framework that detects top-down view roadmap and localizes nearby objects from six-view camera videos (with PyTorch, PyTorchLightning, Distributed Training, VAE, Feature Pyramid Network(FPN), LSTM, Yolov3, ResNets, EfficientNet, Transfer Learning, K-means, CNN, Data Augmentation).
+Built an Encoder-Decoder framework that detects top-down view roadmap and localizes nearby objects from six-view camera videos with 0.79 Average Threat Score on the test set (with PyTorch, PyTorchLightning, Distributed Training, VAE, Feature Pyramid Network(FPN), LSTM, Yolov3, EfficientNet, Transfer Learning, K-means, CNN, Data Augmentation).
 
 ## Education
 2019-Present NYU Major:Data Science\
