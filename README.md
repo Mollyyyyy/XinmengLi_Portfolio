@@ -28,7 +28,7 @@ Built features from Count Vectorizer, TF-IDF Vectorizer, Word2Vec, Emotion Lexic
 Compared the performance of BERT and traditional machine learning models including XGBoost, Random Forest, Logistic Regression, and SVM. \
 Constructed an optimal hybrid model combining the best models on different types of features. 
 #### Autonomous Driving Detection System(2020)
-Optimized Variational Autoencoder(VAE) and LSTM to build an Encoder-Decoder framework that detects top-down view roadmap and localizes nearby objects from six-view camera videos (with PyTorch, PyTorchLightning, Distributed Training, VAE, Feature Pyramid Network(FPN), LSTM, Yolov3, ResNets, EfficientNet, Transfer Learning, K-means, CNN, Data Augmentation).
+Built an Encoder-Decoder framework that detects top-down view roadmap and localizes nearby objects from six-view camera videos (with PyTorch, PyTorchLightning, Distributed Training, VAE, Feature Pyramid Network(FPN), LSTM, Yolov3, ResNets, EfficientNet, Transfer Learning, K-means, CNN, Data Augmentation).
 
 ## Education
 2019-Present NYU Major:Data Science\
